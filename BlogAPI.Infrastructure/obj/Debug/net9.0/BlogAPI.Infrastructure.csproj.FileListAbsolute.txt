@@ -1,0 +1,15 @@
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net9.0\BlogAPI.Infrastructure.deps.json
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net9.0\BlogAPI.Infrastructure.dll
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net9.0\BlogAPI.Infrastructure.pdb
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net9.0\BlogAPI.Domain.dll
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\bin\Debug\net9.0\BlogAPI.Domain.pdb
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI..8FBF4773.Up2Date
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI.Infrastructure.dll
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\refint\BlogAPI.Infrastructure.dll
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\BlogAPI.Infrastructure.pdb
+C:\Users\tecno8\Development\BlogAPI\BlogAPI.Infrastructure\obj\Debug\net9.0\ref\BlogAPI.Infrastructure.dll

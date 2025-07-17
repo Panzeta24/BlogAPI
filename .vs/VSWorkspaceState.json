@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlogAPI.API",
+    "\\BlogAPI.Aplication",
+    "\\BlogAPI.Domain",
+    "\\BlogAPI.Domain\\Entities",
+    "\\BlogAPI.Infrastructure",
+    "\\BlogAPI.Infrastructure\\Persistence"
+  ],
+  "SelectedNode": "\\BlogAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
