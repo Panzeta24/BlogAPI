@@ -19,6 +19,6 @@ namespace BlogAPI.Domain.Entities
         [Required]
         public int PostId { get; set; }
 
-        public virtual Post Post { get; set; }      // desde una instancia de Comment. ej: myComment.Post.Title
+        public virtual Post Post { get; set; } = null!;    // desde una instancia de Comment. ej: myComment.Post.Title
     }
 }

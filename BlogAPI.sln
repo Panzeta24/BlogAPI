@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI.Infrastructure", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI.API", "BlogAPI.API\BlogAPI.API.csproj", "{16AEB5E9-D902-43BE-B40D-6FD4B53F7CB5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{8EED448B-BB80-4188-BC44-6981CC9B5108}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{06BFC336-0357-40E5-B1A9-00F4D8558525}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +78,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{564CFDF7-0B5C-4736-B684-382D6B180E71} = {8EED448B-BB80-4188-BC44-6981CC9B5108}
+		{CA5F68B4-1FA1-4257-BFB8-313F14D02FBA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{AD4C6C66-D579-4A76-B3AB-4525630E7641} = {06BFC336-0357-40E5-B1A9-00F4D8558525}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480D9C04-30E4-42EC-A7EF-B311F0BE8942}
 	EndGlobalSection
 EndGlobal
